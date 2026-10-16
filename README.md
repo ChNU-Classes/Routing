@@ -1,3 +1,5 @@
+# Practics 3
+
 ## Please, update the initial application so that a user will be able to:
 
 1. View list of products (page available via ../products/index, ../items/index, ../products/ and ../items)
